@@ -232,21 +232,21 @@
 // Note that the short string is limited to 30 characters and the long string is limited to 45 characters
 // Emojis cannot be used in these strings :(
 */
-"Monthly sip of coffee" = "Pár zrnek kávy";
-"Gift Keka a sip of coffee each month" = "Keka si pochutná na pár zrncích kávy";
-"Monthly coffee" = "Kafe na pár dní";
-"Gift Keka a coffee each month" = "Keka bude mít energii na pár dní";
-"Monthly pair of coffees" = "Kafe na celý měsíc";
-"Gift Keka a couple coffees each month" = "Keka bude mít energii na celý měsíc";
-"Monthly breakfast" = "Snídaně na měsíc";
-"Gift Keka a breakfast each month" = "Keka si pochutná na dobré snídani";
-"Tip a coffee" = "Jedno kafe";
-"Tip Keka a coffee so it can stay awake" = "Kupte Keka kávu, aby byla plná energie";
-"Tip a breakfast" = "Jedna snídaně";
-"Tip Keka a breakfast so it can start fresh" = "Kupte Keka snídani, aby se jí dobře vstávalo";
-"Tip a lunch" = "Jeden oběd";
-"Tip Keka a lunch and feed it" = "Kupte Keka oběd, aby byla zdravá";
-"Tip a dinner" = "Jedna večeře";
-"Tip Keka a dinner so it keeps rolling" = "Kupte Keka večeři, aby se jí dobře spalo";
-"Tip a bunch of food" = "Stůl plný jídla";
-"Tip Keka a new bunch of food to keep rolling" = "Pozor, aby neztloustla!";
+"Monthly sip of coffee" = "Doušek kávy jednou za měsíc";
+"Gift Keka a sip of coffee each month" = "Darujte Kece doušek kávy každý měsíc";
+"Monthly coffee" = "Káva jednou za měsíc";
+"Gift Keka a coffee each month" = "Darujte Kece kávu každý měsíc";
+"Monthly pair of coffees" = "Dvě kávy za měsíc";
+"Gift Keka a couple coffees each month" = "Darujte Kece každý měsíc dvě kávy";
+"Monthly breakfast" = "Snídaně jednou za měsíc";
+"Gift Keka a breakfast each month" = "Darujte Kece každý měsíc snídani";
+"Tip a coffee" = "Darujte kávu";
+"Tip Keka a coffee so it can stay awake" = "Darujte Kece kávu, ať zůstane vzhůru";
+"Tip a breakfast" = "Darujte snídani";
+"Tip Keka a breakfast so it can start fresh" = "Darujte Kece snídani, aby se jí dobře vstávalo";
+"Tip a lunch" = "Darujte oběd";
+"Tip Keka a lunch and feed it" = "Kupte Kece oběd a nakrmte ji";
+"Tip a dinner" = "Kupte večeři";
+"Tip Keka a dinner so it keeps rolling" = "Kupte Kece večeři, ať jede dál";
+"Tip a bunch of food" = "Kupte hromadu jídla";
+"Tip Keka a new bunch of food to keep rolling" = "Kupte Kece novou hromadu jídla, ať se valí dál";
